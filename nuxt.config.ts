@@ -10,8 +10,7 @@ export default defineNuxtConfig({
       script: [
         // Insert your Google Tag Manager Script here
         // { src: '-', async: true, type: 'text/partytown' },
-        { src: 'https://js.stripe.com/v3/', async: true, type: 'text/partytown' },
-        { src: 'https://connect.facebook.net/en_US/sdk.js', async: true, type: 'text/partytown' }
+        { src: 'https://cdn.shopify.com/s/javascripts/currencies.js', async: true, type: 'text/partytown' },
       ]
     }
   },
