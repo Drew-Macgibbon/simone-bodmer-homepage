@@ -1,8 +1,13 @@
 import { defineConfig } from "histoire";
-import { HstNuxt } from "@histoire/plugin-nuxt";
+import { HstNuxt } from "@histoire/plugin-nuxt"
+import { HstVue } from '@histoire/plugin-vue'
+
 
 export default defineConfig({
-  plugins: [HstNuxt()],
+  plugins: [
+    HstVue(),
+    HstNuxt(),
+  ],
   theme: {
     title: "Acme Inc.",
     // logo: {
