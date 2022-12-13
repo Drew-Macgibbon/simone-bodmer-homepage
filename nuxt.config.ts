@@ -15,6 +15,12 @@ export default defineNuxtConfig({
       ]
     }
   },
+  // nitro: {
+  //   compressPublicAssets: true,
+  //   prerender: {
+  //     crawlLinks: true,
+  //   },
+  // },
   css: ['/assets/main.css'],
   modules: [
     '@nuxtjs/tailwindcss',

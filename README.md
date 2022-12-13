@@ -64,6 +64,6 @@ If was at my workstation the quality of work and speed of delivery would have be
 
 Generally I have a good eye for detail, so as I get going I'll definitely add more to the list.
 
-I'm currently checking to see if I have improved the page speed at all, will upload the results shortly/
+<!-- I'm currently checking to see if I have improved the page speed at all, will upload the results shortly/ -->
 
 let me know what you think!

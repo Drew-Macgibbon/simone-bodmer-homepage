@@ -4,11 +4,8 @@
      lg:mb-20
      ">
     <div class="bg-[#00161C] flex flex-col lg:flex-row justify-center items-center ">
-        <nuxt-img
+        <img
         src="/featured.jpeg"
-        format="webp"
-        quality="80"
-        sizes="sm:100vw md:80vw lg:400px" 
         />
         <a href="https://www.milkdecoration.com/simone-bodmer-turner/"
         target="_blank"
