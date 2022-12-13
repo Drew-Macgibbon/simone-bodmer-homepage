@@ -1,7 +1,7 @@
 <template>
-  <div class="flex flex-col-reverse justify-between items-left gap-6 px-10 py-6 border-t-[16px] w-[90%] 
-    mx-auto mt-[5%] border-white bg-black text-white text-[12.15px] font-bold
-    lg:m-[20px_20px_0px_20px] lg:grid lg:grid-cols-[1fr_4fr_2.5fr] lg:w-full lg:py-[18px] lg:px-0
+  <div class="flex flex-col-reverse justify-between gap-6 px-10 py-10 border-t-[8px] 
+    border-white text-white text-[12.15px] font-bold glass-bg
+    lg:grid lg:grid-cols-[1fr_4fr_2.5fr] lg:w-full lg:py-[18px]
     ">
     <p class="hidden lg:flex items-center">Site by 1/1</p>
     <div class="flex flex-row flex-wrap gap-2 lg:gap-6 items-center">

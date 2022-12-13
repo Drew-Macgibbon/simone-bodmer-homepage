@@ -6,12 +6,12 @@
 
 
 /* For Webkit-based browsers (Chrome, Safari and Opera) */
-.scrollbar-hide::-webkit-scrollbar {
+.scroll-hide::-webkit-scrollbar {
   display: none;
 }
 
 /* For IE, Edge and Firefox */
-.scrollbar-hide {
+.scroll-hide {
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
@@ -27,6 +27,15 @@ html {
   padding: 0px;
   margin: 0px;
 }
+
+/**
+ * Disable smooth scrolling when users have prefers-reduced-motion enabled
+ */
+ /* @media screen and (prefers-reduced-motion: reduce) {
+	html {
+		scroll-behavior: auto;
+	}
+} */
 
 #__nuxt {
   padding: 0px;

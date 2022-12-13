@@ -1,14 +1,22 @@
-<template>
-  <div class="flex flex-col mb-20 bg-black w-[96%] mx-auto">
-    <HomeHero />
-    <HomeIntro />
-    <home-sculpture v-for="sculpture in sculptures" :key="sculpture.id" :number="Number(sculpture.id)" :title="sculpture.title" :dimensions="sculpture.dimensions" :year="Number(sculpture.year)" />
+<template>  
+  <div class="snap-y snap-mandatory h-[calc(100vh-50px-68px)] flex flex-col gap-20 scroll-hide overflow-scroll">
+    <HomeHero class="snap-center" />
+    <HomeSculpture
+        class="snap-center max-h-[100vh] my-[20vh] w-[96%]"
+        v-for="sculpture in sculptures"
+        :key="sculpture.id" 
+        :number="Number(sculpture.id)"
+        :title="sculpture.title" 
+        :dimensions="sculpture.dimensions"
+        :year="Number(sculpture.year)"
+        />
+    <HomeMedia class="snap-center" />
   </div>
+
 </template>
 
 <script setup>
 const colorMode = useColorMode()
-console.log(colorMode.preference)
 
 const sculptures = [
     { id: 1, title: "Springtime", year: "2021", dimensions: "18.5 x 21.5 x 14" },
