@@ -42,7 +42,7 @@ export default defineNuxtConfig({
   build: {
     transpile: ['']
   },
-  ssr: false,
+  ssr: true,
   content: {
     // Nuxt content options
     highlight: {
