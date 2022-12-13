@@ -21,7 +21,8 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/partytown',
     'nuxt-icon',
-    '@nuxtjs/color-mode'
+    '@nuxtjs/color-mode',
+    '@nuxt/image-edge',
   ],
   partytown: {
     // For google analytics

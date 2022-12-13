@@ -6,7 +6,7 @@ This is the original [homepage](https://simonebodmerturner.com/)
 
 This is intended only as a showcase of my skills and will not be used for any comercial gain.
 
-Find the live website [here](https://simone-bodmer-turner.onrender.com/)
+Find the live website [here](https://simone-bodmer-turner.onrender.com/)  
 I also played for a while and tried some changes, check that out [here](https://simone-bodmer-dev.onrender.com/)
 
 I wanted to do more, but I'm currently in the middle of nowhere, using phone for hotspot and a tempermental laptop that's driving me insane!
