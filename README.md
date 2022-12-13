@@ -6,25 +6,28 @@ If was at my workstation the quality of work and speed of delivery would have be
 
 
 <h3 align="center" style="margin-top: 20px;">Project video overview</h3>
-<a align="center" style="margin-bottom: 0px !important;" href="https://vimeo.com/780827413">
-  <img width="200" src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/video-thumbnail.png" align="center">
+<a align="center" style="margin-bottom: 0px !important; width="600px" href="https://vimeo.com/780827413">
+  <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/video-thumbnail.png" width="100%" >
 </a>
-  <a align="center" href="https://simone-bodmer-turner.onrender.com/">   
+  
+<a href="https://simone-bodmer-turner.onrender.com/">   
     here's my version of the site  
-  </a>
+</a>
 
-
-<h3 align="center" style="margin-top: 20px;">I got carried away...</h3>
-<p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/new-design.gif" align="center">
+<h3 align="center" style="margin-top: 40px;">I got carried away...</h3>
+<p align="center">   
   I also played for a while, refactored some code and tried out a design cahnge.
-  So far it's only checked on Laptop and greater screen sizes, it's likely rubbish on Mobile!
+  So far it's only checked on Laptop and greater screen sizes, it's likely rubbish on Mobile!  
 </p>
-  <a align="center" href="https://simone-bodmer-dev.onrender.com/">   
-    Check it out here  
-  </a>
 
-#### I also thought about other things I could improve!
+<p align="center" style="margin-top: 20px !important;">
+  <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/new-design.gif" align="center" width="100%">
+</p>
+<a align="center" href="https://simone-bodmer-dev.onrender.com/" style="margin-bottom: 60px !important;">   
+  Check it out here  
+</a>
+
+### I also thought about some things I could improve!
 (Some may be irrelevent, as I don't fully understand the project)
 
 - SEO/Pagespeed:
