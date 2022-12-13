@@ -6,7 +6,6 @@ If was at my workstation the quality of work and speed of delivery would have be
 
   
     
-
   
 <table style="margin-top: 40px;">
   <tr>
@@ -17,7 +16,7 @@ If was at my workstation the quality of work and speed of delivery would have be
         <a href="https://simone-bodmer-turner.onrender.com/">   
           here's my live version of the site  
         </a>
-      <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/desktop-design.gif" style="margin-top: 40px;"/>
+      <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/desktop-design.gif" style="margin: 40px;" />
     </td>
   </tr>
 </table>
