@@ -6,6 +6,7 @@
     <div class="bg-[#00161C] flex flex-col lg:flex-row justify-center items-center ">
         <img
         src="/featured.jpeg"
+        width="400px"
         />
         <a href="https://www.milkdecoration.com/simone-bodmer-turner/"
         target="_blank"
