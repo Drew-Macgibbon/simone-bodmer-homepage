@@ -4,9 +4,11 @@
       lg:grid-cols-[140px_1fr_123px]
     ">
     <!-- Fixed Top Right -->
-    <h4 class="text-[13.15px] font-extrabold fixed top-[20px] right-2 z-30 text-white mix-blend-difference hidden
-      lg:block lg:right-[22px]
-    "> Cart 0</h4>
+    <a class="text-[13.15px] font-extrabold fixed top-[20px] right-2 z-[1000] text-white mix-blend-difference hidden
+        lg:flex lg:right-[22px] cursor-pointer
+      ">
+      <h4>Cart 0</h4>
+    </a>
     <!-- Hero Image -->
     <div class="w-[calc(100vw+8rem)] h-[calc(100vh+8rem)] absolute left-0 bg-cover bg-no-repeat z-0 max-w-full bg-[right_-100px_top_50px] max-h-[100vh]
     lg:h-[calc(100vh+95px)] lg:w-[calc(100vw+95px)] lg:bg-[center_top_-95px]
@@ -54,6 +56,9 @@ Layout transition animation
 https://nuxt.com/docs/getting-started/transitions
 */
 
+a:hover {
+  font-style: italic;
+}
 
 .layout-enter-active,
 .layout-leave-active {

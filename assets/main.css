@@ -39,10 +39,6 @@ a {
   text-transform: none;
 }
 
-a:hover {
-  transform: skew(-0.06turn, 18deg);
-}
-
 h5 {
   font-family: 'Teko', sans-serif;
   text-transform: uppercase;
