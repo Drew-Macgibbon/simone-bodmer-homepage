@@ -9,7 +9,17 @@ module.exports = {
   ],
   mode: 'jit',
   theme: {
-    extend: {}
+    extend: {
+      animation: {
+        fadeIn: 'fadeIn 1.75s ease-in forwards',
+      },
+      keyframes: {
+        fadeIn: {
+          '0%': { opacity: 0 },
+          '100%': { opacity: 1 },
+        }
+      }
+    }
   },
   plugins: [
     require('@tailwindcss/typography'),

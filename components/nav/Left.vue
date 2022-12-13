@@ -1,6 +1,6 @@
 <template>
   <div class="flex pl-[20px] h-auto leading-none w-full sticky top-[150px] font-semibold">
-    <ul class="text-[14.15px] h-auto">
+    <ul class="text-[14.15px] h-auto hidden lg:inline-block">
       <li v-for="page in pages" :key="page.name" class="mb-1.5">
         <NuxtLink :to="page.path">{{ page.name }}</NuxtLink>
         <ul v-if="page.children" class="pl-2">

@@ -11,6 +11,7 @@ export default defineNuxtConfig({
         // Insert your Google Tag Manager Script here
         // { src: '-', async: true, type: 'text/partytown' },
         { src: 'https://cdn.shopify.com/s/javascripts/currencies.js', async: true, type: 'text/partytown' },
+        { src: 'https://code.iconify.design/iconify-icon/1.0.2/iconify-icon.min.js', async: true, type: 'text/partytown' },
       ]
     }
   },
@@ -19,6 +20,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@nuxt/content',
     '@nuxtjs/partytown',
+    'nuxt-icon',
     '@nuxtjs/color-mode'
   ],
   partytown: {
@@ -39,7 +41,7 @@ export default defineNuxtConfig({
   build: {
     transpile: ['']
   },
-  ssr: false,
+  ssr: true,
   content: {
     // Nuxt content options
     highlight: {

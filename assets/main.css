@@ -40,7 +40,7 @@ a {
 }
 
 a:hover {
-  font-style: italics;
+  transform: skew(-0.06turn, 18deg);
 }
 
 h5 {
