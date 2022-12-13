@@ -2,19 +2,29 @@
 This is the original [homepage](https://simonebodmerturner.com/)
 
 This is intended only as a showcase of my skills and will not be used for any comercial gain.  
-If was at my workstation the quality of work and speed of delivery would have been much swifter, my mobile is about to explode from hotspotting!
+If was at my workstation the quality of work and speed of delivery would have been much swifter, my mobile is aboutdesktopplode from hotspotting!
 
+  
+    
 
-<h3 align="center" style="margin-top: 20px;">Project video overview</h3>
+  
+<table style="margin-top: 40px;">
+  <tr>
+    <td valign="top" width="34%"><img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/mobile-design.gif"/></td>
+    <td valign="bottom" width="65%">
+      <h3 align="center">Project video overview</h3>
+      <p> I managed to get the design of the website sorder fairly quickly. The layout seemed more complecated than it was and after scratching my head for a while I             deduced that <code> mix-blend-mode: difference; </code> was the way to go. </p>
+        <a href="https://simone-bodmer-turner.onrender.com/">   
+          here's my live version of the site  
+        </a>
+      <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/desktop-design.gif" style="margin-top: 40px;"/>
+    </td>
+  </tr>
+</table>
 <a align="center" style="margin-bottom: 0px !important; width="600px" href="https://vimeo.com/780827413">
   <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/video-thumbnail.png" width="100%" >
-  <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/mobile-design.gif" width="36%" >
-  <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/desktop-design.gif" width="64%" >
 </a>
-  
-<a href="https://simone-bodmer-turner.onrender.com/">   
-    here's my version of the site  
-</a>
+   
 
 <h3 align="center" style="margin-top: 40px;">I got carried away...</h3>
 <p align="center">   
