@@ -6,11 +6,9 @@
   >
     <h1 class="text-[39px] mb-2 lg:mb-8"> {{ props.number }} </h1>
     <nuxt-img
-      :src="`/sculptures/sculpture${props.number}.png`"
-      loading="lazy"
+      src="/sculptures/sculpture1.png"
       :alt="props.title + 'sculpture'"
       class="max-h-[80vh] w-auto aspect-auto js-show-on-scroll mb-2 lg:mb-8 opacity-0"
-      format="webp"
       quality="80"
       sizes="sm:100vw md:80vw lg:600px"
       />

@@ -1,8 +1,3 @@
-<!--
-  Cathall route for rendering 404s
-  https://nuxt.com/docs/guide/directory-structure/pages/#catch-all-route
--->
-
 <template>
   <div class="h-[100vh]">
     <div class="w-full h-full flex flex-col items-center justify-center">
@@ -13,7 +8,7 @@
         WE'RE LOST
       </h3>
       <NuxtLink
-        :to="{ name: 'Home' }"
+        to="/"
         class="whitespace-nowrap px-8 pt-4"
       >
         GO BACK HOME
@@ -22,7 +17,7 @@
   </div>
 </template>
 
-<script setup>
+<script >
 
 </script>
 
