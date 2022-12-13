@@ -8,6 +8,8 @@ If was at my workstation the quality of work and speed of delivery would have be
 <h3 align="center" style="margin-top: 20px;">Project video overview</h3>
 <a align="center" style="margin-bottom: 0px !important; width="600px" href="https://vimeo.com/780827413">
   <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/video-thumbnail.png" width="100%" >
+  <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/mobile-design.gif" width="36%" >
+  <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/desktop-design.gif" width="64%" >
 </a>
   
 <a href="https://simone-bodmer-turner.onrender.com/">   
