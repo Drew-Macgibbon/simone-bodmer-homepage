@@ -2,7 +2,7 @@
 This is the original [homepage](https://simonebodmerturner.com/)
 
 #### Video overview
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://vimeo.com/780827413)
+[<img src="/video-thubnail.png" width="50%">](https://vimeo.com/780827413)
 
 This is intended only as a showcase of my skills and will not be used for any comercial gain.
 
