@@ -1,18 +1,31 @@
 ## Simone Bodmer-Turner's Homepage
 This is the original [homepage](https://simonebodmerturner.com/)
 
-#### Video overview
-[<img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/video-thumbnail.png" width="50%">](https://vimeo.com/780827413)
+This is intended only as a showcase of my skills and will not be used for any comercial gain.  
+If was at my workstation the quality of work and speed of delivery would have been much swifter, my mobile is about to explode from hotspotting!
 
-This is intended only as a showcase of my skills and will not be used for any comercial gain.
 
-Find the live website [here](https://simone-bodmer-turner.onrender.com/)  
-I also played for a while and tried some changes, check that out [here](https://simone-bodmer-dev.onrender.com/)
+<h3 align="center" style="margin-top: 20px;">Project video overview</h3>
+<a align="center" style="margin-bottom: 0px !important;" href="https://vimeo.com/780827413">
+  <img width="200" src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/video-thumbnail.png" align="center">
+</a>
+  <a align="center" href="https://simone-bodmer-turner.onrender.com/">   
+    here's my version of the site  
+  </a>
 
-I wanted to do more, but I'm currently in the middle of nowhere, using phone for hotspot and a tempermental laptop that's driving me insane!
 
-#### I have ideas!
-(Some of them probably aren't that good 😂)
+<h3 align="center" style="margin-top: 20px;">I got carried away...</h3>
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="200" src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/new-design.gif" align="center">
+  I also played for a while, refactored some code and tried out a design cahnge.
+  So far it's only checked on Laptop and greater screen sizes, it's likely rubbish on Mobile!
+</p>
+  <a align="center" href="https://simone-bodmer-dev.onrender.com/">   
+    Check it out here  
+  </a>
+
+#### I also thought about other things I could improve!
+(Some may be irrelevent, as I don't fully understand the project)
 
 - SEO/Pagespeed:
   - Images:
@@ -36,5 +49,7 @@ I wanted to do more, but I'm currently in the middle of nowhere, using phone for
     - Could use some color here, would stand out greatly since the rest of the page is dull
 
 Generally I have a good eye for detail, so as I get going I'll definitely add more to the list.
+
+I'm currently checking to see if I have improved the page speed at all, will upload the results shortly/
 
 let me know what you think!
