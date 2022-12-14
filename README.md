@@ -2,9 +2,7 @@
 This is the original [homepage](https://simonebodmerturner.com/)
 
 This is intended only as a showcase of my skills and will not be used for any comercial gain.  
-If was at my workstation the quality of work and speed of delivery would have been much swifter, my mobile is aboutdesktopplode from hotspotting!
-
-  
+If was at my workstation the quality of work and speed of delivery would have been much swifter, my mobile is about to explode from hotspotting!
     
   
 <table style="margin-top: 40px;">
