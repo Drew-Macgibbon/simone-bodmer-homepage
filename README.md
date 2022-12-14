@@ -3,18 +3,23 @@ This is the original [homepage](https://simonebodmerturner.com/)
 
 This is intended only as a showcase of my skills and will not be used for any comercial gain.  
 If was at my workstation the quality of work and speed of delivery would have been much swifter, my mobile is about to explode from hotspotting!
-    
+
+&nbsp;  
+#### The gifs below might take some time to load
+&nbsp;  
   
 <table style="margin-top: 40px;">
   <tr>
     <td valign="top" width="34%"><img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/mobile-design.gif"/></td>
     <td valign="bottom" width="65%">
       <h3 align="center">Project video overview</h3>
-      <p> I managed to get the design of the website sorder fairly quickly. The layout seemed more complecated than it was and after scratching my head for a while I             deduced that <code> mix-blend-mode: difference; </code> was the way to go. </p>
+      <p> I managed to get the design of the website sorder fairly quickly. The layout seemed more complecated than it was and after scratching my head for a while I             deduced that <code> mix-blend-mode: difference; </code> was the way to go.
+       </p>
         <a href="https://simone-bodmer-turner.onrender.com/">   
-          here's my live version of the site  
+          here's my live version of the site
         </a>
-      <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/desktop-design.gif" style="margin: 40px;" />
+        </p>
+      <img src="https://github.com/Drew-Macgibbon/simone-bodmer-homepage/blob/development/public/desktop-design.gif"/>
     </td>
   </tr>
 </table>
