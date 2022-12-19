@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h-full bg-no-repeat z-0 my-auto top-0 bottom-0
+  <div class="w-full h-full bg-no-repeat z-0 my-auto top-0 bottom-0 relative
     text-[12.15px] mix-blend-difference text-gray-600 bg-cover bg-center flex justify-center items-center
     "
     :style="{ 'background-image': `url('./footer-image.jpg')` }"
@@ -29,8 +29,9 @@
               View Works ►
             </h5>
           </div>
-      </div>
+        </div>
         <!-- bottom right text -->
       </div>
+      <iframe class="absolute bottom-0 center" src="https://embed.lottiefiles.com/animation/40587"></iframe>
   </div>
 </template>
