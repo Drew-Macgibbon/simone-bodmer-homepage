@@ -10,6 +10,9 @@
     0/0/0
     -->
     <div class="w-full row-start-1 row-span-2 col-span-1 col-start-1 z-20 relative mix-blend-difference text-white glass-bg">
+      <div class="lg:hidden">
+        <Icon name="cil:hamburger-menu" class="absolute top-[14px] left-1.5 text-[24px] text-white"/>
+    </div>
       <nav-left />
       <div class="right-0 top-0 w-[6px] h-full bg-white absolute" />
     </div>

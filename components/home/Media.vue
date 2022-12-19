@@ -6,18 +6,18 @@
     <div class="bg-[#00161C] flex flex-col lg:flex-row justify-center items-center ">
         <img
         src="/featured.jpeg"
-        width="400px"
+        class="h-full lg:w-[400px] lg:h-auto"
         />
         <a href="https://www.milkdecoration.com/simone-bodmer-turner/"
         target="_blank"
-        class="p-20"
+        class="p-8 lg:p-20 mt-[-100%] lg:mt-0  bg-[#000] bg-opacity-[16%] lg:bg-none"
         >
-        <h1 class="big-title text-2xl font-bold mb-1">Simone Bodmer-Turner</h1>
-        <blockquote class="w-60 pl-2">In her studio in New York, the young artist Simone Bodmer-Turner gives shape to organic sculptures.
-           Inspired by nature, she plays on a clear chromatic palette to better highlight the volumes and singularities of her creations.....
-        </blockquote>
-        <p class="big-title font-extralight pl-2 pt-8 text-xs">milkdecoration.com</p>
-      </a>
+          <h1 class="big-title text-2xl font-bold mb-1">Simone Bodmer-Turner</h1>
+          <blockquote class="w-60 pl-2">In her studio in New York, the young artist Simone Bodmer-Turner gives shape to organic sculptures.
+            Inspired by nature, she plays on a clear chromatic palette to bet1er highlight the volumes and singularities of her creations.....
+          </blockquote>
+          <p class="big-title font-extralight pl-2 pt-8 text-xs">milkdecoration.com</p>
+        </a>
     </div>
   </div>
 </template>

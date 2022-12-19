@@ -6,8 +6,8 @@
     >
       <!-- top left text -->
       <div
-        class="flex flex-row w-full relative p-[120px] h-[100vh]">
-        <div class="flex justify-start items-start w-full h-full">
+        class="flex flex-row w-full relative p-6 lg:p-[120px] h-[100vh]">
+        <div class="flex justify-start items-start w-full h-full pt-16">
           <div class="flex flex-col">
             <h4 class="m-0 font-bold">
               PERMANENT COLLECTION
@@ -32,6 +32,6 @@
         </div>
         <!-- bottom right text -->
       </div>
-      <iframe class="absolute bottom-0 center" src="https://embed.lottiefiles.com/animation/40587"></iframe>
+      <iframe class="absolute bottom-20 md:bottom-0 center" src="https://embed.lottiefiles.com/animation/40587"></iframe>
   </div>
 </template>
